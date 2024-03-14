@@ -12,3 +12,6 @@ git status
 git log - Commit messages/log
 git remote add origin *URL*
 git clone *URL*
+git add - staged changes
+git commit - commit changes to files
+git restore - restore previous version
