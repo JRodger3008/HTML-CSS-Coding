@@ -6,3 +6,9 @@ mv filename1 -> filename2
 ls - Last save (time and date)
 cp *filename* - copy
 dir - Check available directories
+cd - Change directories
+git config - change username/email 
+git status
+git log - Commit messages/log
+git remote add origin *URL*
+git clone *URL*
