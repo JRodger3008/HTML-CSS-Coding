@@ -1,0 +1,8 @@
+rmdir - Remove Directory
+mkdir - Make Directory
+wc *directory name* - Word Count
+clear
+mv filename1 -> filename2
+ls - Last save (time and date)
+cp *filename* - copy
+dir - Check available directories
